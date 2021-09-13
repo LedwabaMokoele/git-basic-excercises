@@ -1,0 +1,16 @@
+  336  git rebase -i fbca98e6598990387e41bcc3565fdb5a57cc64e2
+  337  git rebase -i fbca98e6598990387e41bcc3565fdb5a57cc64e2
+  338  git rebase --abort
+  339  git rebase -i fbca98e6598990387e41bcc3565fdb5a57cc64e2
+  340  git log
+  341  git rebase -i a06891b62e2d2826cdb00bbdbb9c8fe97cd633cc
+  342  ls
+  343  git checkout history
+  344  git checkout master
+  345  git branch -d history
+  346  git branch -D history
+  347  git branch history
+  348  git checkout history
+  349  git log
+  350  git branch
+  351  ls
